@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.dp-flex {
+    display: flex;
+}
+
+.dp-grid {
+    display: grid;
+}
+
+.dp-none {
+    display: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.is-dragged {
+    cursor: grabbing;
+    cursor: -webkit-grabbing;
+}
